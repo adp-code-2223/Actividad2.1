@@ -20,6 +20,10 @@ public class Departamento {
         this.loc = loc;
     }
 
+    public Departamento() {
+      
+    }
+
     public int getDeptno() {
         return deptno;
     }
